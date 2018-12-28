@@ -41,3 +41,15 @@ ServerModSetup("588560555")
 -- Epic Healthbar
 -- https://steamcommunity.com/sharedfiles/filedetails/?id=1185229307
 ServerModSetup("1185229307")
+
+-- Never Perish Icebox
+-- https://steamcommunity.com/sharedfiles/filedetails/?id=541537428
+ServerModSetup("541537428")
+
+-- Increased Stack size
+-- https://steamcommunity.com/sharedfiles/filedetails/?id=374550642
+ServerModSetup("374550642")
+
+-- No Thermal Stone Durability
+-- https://steamcommunity.com/sharedfiles/filedetails/?id=466732225
+ServerModSetup("466732225")

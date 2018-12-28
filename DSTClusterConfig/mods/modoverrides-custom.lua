@@ -71,5 +71,17 @@ return {
 
   -- Epic Healthbar
   -- https://steamcommunity.com/sharedfiles/filedetails/?id=1185229307
-  ["workshop-1185229307"]={ configuration_options={  }, enabled=true }
+  ["workshop-1185229307"]={ configuration_options={  }, enabled=true },
+
+  -- Never Perish Icebox
+  -- https://steamcommunity.com/sharedfiles/filedetails/?id=541537428
+  ["workshop-541537428"]={ configuration_options={  }, enabled=true },
+
+  -- Increased Stack size
+  -- https://steamcommunity.com/sharedfiles/filedetails/?id=374550642
+  ["workshop-374550642"]={ configuration_options={  }, enabled=true },
+
+  -- No Thermal Stone Durability
+  -- https://steamcommunity.com/sharedfiles/filedetails/?id=466732225
+  ["workshop-466732225"]={ configuration_options={  }, enabled=true }
 }
